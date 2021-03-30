@@ -1,2 +1,4 @@
-# glpi.easy.install
-como instalar de forma rapida e facil glpi, vou tentar deixar tudo pronto para ajudar em seu ambiente de trabalho e deixarei como habilitar novas funcionalidade direcionado ao service desk
+# Glpi Easy Install
+Este script esta para ajudar a implementar de forma simples e direta a instalação do glpi.
+Ainda trata-se de script esperimental assim que finalizado escrevo mais detalhes e sua compatibilidade.
+inicialmente devo tentar deixar pronto para o pessoal de service desk. mas caso tenha algo a acrecentar notifique
